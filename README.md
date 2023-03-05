@@ -1,0 +1,1 @@
+Este projeto tem o objetivo de introduzir-me nos fundamentos da linguagem C# por meio dos cursos da Alura. Os tópicos abordados incluem conceitos básicos, tais como variáveis, tipos de dados, estruturas lógicas e laços de repetição.
