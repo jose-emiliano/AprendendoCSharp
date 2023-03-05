@@ -5,15 +5,12 @@ class Program
   static void Main(string[] args)
   {
     double investimento = 1000;
-    double juros = 0.5/100;
-    int mes = 1;
+    double juros = 1 + (0.5/100);
 
-    while (mes <= 12)
+    for(int mes = 1; mes <= 12; mes++)
     {
-      investimento += investimento * juros;
+      investimento *= juros;
       Console.WriteLine("No mes " + mes + " você tem R$" + investimento + ".");
-      
-      mes++;
     }
   }
 }
