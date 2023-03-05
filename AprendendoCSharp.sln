@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Esco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio01-AlicotaComIfs", "Desafio01-AlicotaComIfs\Desafio01-AlicotaComIfs.csproj", "{AAEC6E01-51AA-4C11-8E5A-72BC3E5F77FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalcularPoupanca", "P10-CalcularPoupanca\P10-CalcularPoupanca.csproj", "{FE0E62DD-C86F-4A04-AFA4-060F1114B231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{AAEC6E01-51AA-4C11-8E5A-72BC3E5F77FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAEC6E01-51AA-4C11-8E5A-72BC3E5F77FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAEC6E01-51AA-4C11-8E5A-72BC3E5F77FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0E62DD-C86F-4A04-AFA4-060F1114B231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0E62DD-C86F-4A04-AFA4-060F1114B231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0E62DD-C86F-4A04-AFA4-060F1114B231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0E62DD-C86F-4A04-AFA4-060F1114B231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
