@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12-InvestindoALongoPrazo",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-EncadeandoFor", "P13-EncadeandoFor\P13-EncadeandoFor.csproj", "{DC87245C-E2CD-4CF3-8B0A-75F3FB60DAC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio02-MultiploDe3", "Desafio02-MultiploDe3\Desafio02-MultiploDe3.csproj", "{A58DF3EA-A162-43BF-A9E6-E286036417B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{DC87245C-E2CD-4CF3-8B0A-75F3FB60DAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC87245C-E2CD-4CF3-8B0A-75F3FB60DAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC87245C-E2CD-4CF3-8B0A-75F3FB60DAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58DF3EA-A162-43BF-A9E6-E286036417B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58DF3EA-A162-43BF-A9E6-E286036417B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58DF3EA-A162-43BF-A9E6-E286036417B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58DF3EA-A162-43BF-A9E6-E286036417B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
