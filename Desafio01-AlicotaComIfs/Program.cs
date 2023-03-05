@@ -1,5 +1,4 @@
-﻿using Internal;
-using System;
+﻿using System;
 
 // O João gostaria de criar um programa sobre Imposto de Renda (IR) e verificou as regras de alíquota. Ele descobriu no site da receita o seguinte:
 
@@ -64,7 +63,7 @@ class Programa
         {
           salarioDescocntado = salario - alicota;
 
-          Console.WriteLine("Sua alicota é de " + alicota + ", e o seu salário descontato é de: " + salarioDescocntado + ".");
+          Console.WriteLine("Sua alicota é de " + alicota + ", e o seu salário descontato é de: R$" + salarioDescocntado + ".");
         }
         else
         {
